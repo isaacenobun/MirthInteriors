@@ -780,8 +780,8 @@ button.button-primary,
 input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
-  background-color: #39b54a;
-  border-color: #39b54a;
+  background-color: #ff002a;
+  border-color: #ff002a;
   color: #FFFFFF;
 }
 
@@ -795,8 +795,8 @@ button.button-primary:focus,
 input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
-  background: #309a3f;
-  border-color: #309a3f;
+  background: #b70220;
+  border-color: #b70220;
 }
 
 button.full-width,
@@ -1084,7 +1084,7 @@ h1.intro-header::before {
   content: "";
   height: 2px;
   width: 70px;
-  background-color: #39b54a;
+  background-color: #ff002a;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -1158,10 +1158,10 @@ h1.intro-header::before {
   padding: 0;
   outline: 0;
   border: none;
-  width: 97px;
-  height: 22px;
+  width: 194px;
+  height: 44px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 97px 22px;
+  background-size: 194px 44px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -1858,7 +1858,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 }
 
 .about-features .feature .icon i {
-  color: #39b54a;
+  color: #ff002a;
   font-size: 4.8rem;
 }
 
@@ -2421,7 +2421,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 
 #testimonial-slider .owl-dots .owl-dot.active span,
 #testimonial-slider .owl-dots .owl-dot:hover span {
-  background-color: #39b54a;
+  background-color: #fe0029;
 }
 
 
@@ -2674,8 +2674,8 @@ footer ul a:visited {
   top: 0;
   right: 0;
   color: #ffffff;
-  background: #39b54a;
-  border-color: #39b54a;
+  background: #fe0029;
+  border-color: #fe0029;
   border-radius: 0 .5rem .5rem 0;
   padding: 0 15px;
 }
